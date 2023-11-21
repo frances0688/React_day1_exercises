@@ -1,5 +1,5 @@
-import Person from '../components/Person/Person'
-import PersonClass from '../components/PersonClass/PersonClass'
+import Person from './components/Person/Person'
+import PersonClass from './components/PersonClass/PersonClass'
 import './App.css'
 
 function App() {
